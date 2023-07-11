@@ -1,5 +1,5 @@
 import React from 'react';
-import Subscribe from './Subscribe';
+
 const End3 = () => {
   return (
     <div className="flex justify-center items-center mt-24 py-20 bg-gray-100">

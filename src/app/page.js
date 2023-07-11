@@ -14,9 +14,9 @@ import Types from './Types';
 import Carousel from './Carousel';
 import Wrap3 from '@/app/Wrap3';
 import Subscribe from './Subscribe';
-import End1 from './end1';
-import End2 from './end2';
-import End3 from './end3';
+import End1 from './End1';
+import End2 from './End2';
+import End3 from './End3';
 export default function Home() {
   return (
     <main className="w-full">

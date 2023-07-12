@@ -3,7 +3,7 @@ import React from 'react';
 import Button2 from './Buttonp';
 const Music = () => {
   return (
-    <div className="bg-cyan-500 mt-44 flex flex-col justify-center items-center md:flex-row" style={{ height: "500px" }}>
+    <div className="bg-cyan-500 mt-44 flex flex-col justify-center items-center md:flex-row px-10" style={{ height: "500px" }}>
     <div className="w-full  md:w-1/2 flex justify-end">
       <div className="md:w-3/5 w-6/7">
         <p className="font-bold text-2xl md:text-3xl text-justify">The Krado Is a Great Way To Get On The Music</p>

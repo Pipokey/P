@@ -2,8 +2,8 @@ import React from 'react';
 
 const Types = () => {
   return (
-    <div className="flex justify-center items-center mt-24 h-screen">
-    <div className="w-2/3 md:w-full flex flex-col justify-center items-center">
+    <div className="flex justify-center items-center mt-24 h-screen px-10">
+    <div className="w-5/6 md:w-full flex flex-col justify-center items-center">
       <div className="text-center font-bold text-sm md:text-4xl">Different Colours & Different Choice</div>
       <p className="text-left text-justify mt-2 mb-8 md:mb-16 font-light">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offici</p>
       <div className="flex justify-center">

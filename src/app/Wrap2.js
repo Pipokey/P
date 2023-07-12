@@ -5,7 +5,7 @@ const Wrap2 = () => {
     <div className="w-5/6 mx-auto mt-32">
       <div className="flex flex-col md:flex-row items-center">
 
-        <div className="w-full md:w-1/2 ml-0 md:ml-10 mt-6 md:mt-0">
+        <div className="w-full md:w-1/2 ml-0 md:ml-10 mt-6 md:mt-0 px-5">
           <div className="w-5/6 md:w-4/5">
             <p className="break-words font-bold text-base md:text-3xl text-left ">Krado Modern Design With
               Wireless Gadget</p>
@@ -19,7 +19,7 @@ const Wrap2 = () => {
           </div>
         </div>
         <div className="w-full md:w-1/2 md:ml-44 flex justify-center">
-          <img src="Icon9.png" className="w-72" alt="Icon8" />
+          <img src="Icon9.png" className="w-72 px-5 mt-10" alt="Icon8" />
         </div>
       </div>
     </div>

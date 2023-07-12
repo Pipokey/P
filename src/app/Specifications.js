@@ -2,7 +2,7 @@ import React from 'react';
 
 const Specifications = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto px-10">
         <h1 className="text-center mt-8 md:mt-36 font-bold text-4xl md:text-4xl text-lg">Technology Keeps Moving Forward</h1>
 
         <p className="text-center mt-4 md:mt-8">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offic</p>
@@ -24,7 +24,7 @@ const Specifications = () => {
               <p className="text-sm">Sed ut perspiciatis unde omnis iste natus error sit volu atem accusam.</p>
             </div>
           </div>
-          <div className="flex justify-center w-full md:w-auto mt-8 md:mt-0">
+          <div className="flex justify-center w-full md:w-auto mt-8 md:mt-0 pr-5">
             <img src="headphones_PNG7650.png" className="h-3/4" alt="Headphones" />
           </div>
           <div className="w-full md:w-1/5 md:ml-16">

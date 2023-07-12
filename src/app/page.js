@@ -30,10 +30,10 @@ export default function Home() {
       <Types />  
      
      
-     <Carousel >
-      <div className="bg-gray-200 flex flex-col items-center justify-center mt-32 py-32 pb-44 " >
-        <p className="font-bold text-4xl text-center">Feedback From Our Customer</p>
-        <p className="font-light text-center">Excepteur sint occaecat cupidatat non proident, sunt in culpa</p>
+     <Carousel className="" >
+      <div className="bg-gray-200 flex flex-col items-center justify-center mt-32 py-32 pb-44  " >
+        <p className="font-bold text-4xl text-center px-5">Feedback From Our Customer</p>
+        <p className="font-light text-center px-5">Excepteur sint occaecat cupidatat non proident, sunt in culpa</p>
         <div className="w-full flex justify-center">
           <div className="w-3/4 flex flex-col md:flex-row justify-between mt-32">
 
